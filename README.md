@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuela</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-🔭 I’m currently working on awesome projects @ [Impresoft Engage]([https://www.develondigital.com/en](https://www.impresoftengage.com/))
+🔭 I’m currently working on awesome projects @ @ [Impresoft Engage](https://www.impresoftengage.com/)
 
 🌱 I’m currently learning more of <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
